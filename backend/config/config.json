@@ -1,9 +1,1 @@
-{
-  "development": {
-    "username": "fox",
-    "password": "Japanese88/Kitsune",
-    "database": "inventory_db",
-    "host": "127.0.0.1",
-    "dialect": "postgres"
-  }
-}
+
